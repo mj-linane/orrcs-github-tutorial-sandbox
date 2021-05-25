@@ -53,7 +53,7 @@ You can create and checkout branches directly within VS code through the **Git: 
 
 ## Workflow When Collorating With Others
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 1. Create a local project and publish it to GitHub for your collaborators. Or clone a GitHub project to your local machine.
 2. On your local machine create a new branch. Each team can decide their own workflow for branches. Typically new branches are for specific additional features that will be added to your application.
