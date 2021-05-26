@@ -15,11 +15,15 @@ That state acts as a "version history" of your project. This allows you to go ba
 It is cloud storage and collaboration platform for your coding projects. It
 helps coordinate git version controlling for yourself and when collaborating with others.
 
-## Setting Up Git and GitHubFor The First Time User
+## Setting Up Git and GitHub For The First Time User
 
 1. If installing on your own machine, you will need to first install
    Git: https://git-scm.com/.
 2. Next, go to https://GitHub.com and sign up for an account.
+
+## Tutorial Video
+
+[How To Use Git in VS Code](https://www.microsoft.com/videoplayer/embed/RE4Mzrv)
 
 ## Instructions for Creating A Project With Version Controlling Git
 
@@ -47,11 +51,11 @@ For a GitHub repository, you would find the URL from the GitHub **Code** dialog.
 
 You would then paste that URL into the **Git: Clone** prompt.
 
-## Creating A branch
+## Creating A Branch
 
 You can create and checkout branches directly within VS code through the **Git: Create Branch** in the **Command Palette** (Ctrl+Shift+P)/(macOS: ⌘+Shift+P).
 
-## Workflow When Collorating With Others
+## Workflow When Collaborating With Others
 
 ![img.png](images/img.png)
 
